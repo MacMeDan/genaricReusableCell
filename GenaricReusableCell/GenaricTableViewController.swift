@@ -16,6 +16,7 @@ class GenaricTableViewController: UITableViewController {
     
     override func viewWillAppear(animated: Bool) {
         super.viewWillAppear(animated)
+        title = "Genaric Table View Controller"
         tableView.registerClass(GenaricCell.self, forCellReuseIdentifier: cellReuseIdentifier)
         tableView.dataSource = self
         tableView.delegate = self
