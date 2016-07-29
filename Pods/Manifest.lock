@@ -1,0 +1,15 @@
+PODS:
+  - Material (1.42.7)
+  - SnapKit (0.21.1)
+
+DEPENDENCIES:
+  - Material
+  - SnapKit
+
+SPEC CHECKSUMS:
+  Material: 2d46a44719b1f19e52956518af8aea54ac714963
+  SnapKit: bbad04cb016c7cead63965f16b00c09318d271ee
+
+PODFILE CHECKSUM: a2c9efb88f5adc58a3ea2e056902460ea0f9d6d1
+
+COCOAPODS: 1.0.1

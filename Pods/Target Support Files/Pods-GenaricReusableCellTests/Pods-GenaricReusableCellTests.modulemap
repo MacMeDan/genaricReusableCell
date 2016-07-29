@@ -1,0 +1,6 @@
+framework module Pods_GenaricReusableCellTests {
+  umbrella header "Pods-GenaricReusableCellTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
